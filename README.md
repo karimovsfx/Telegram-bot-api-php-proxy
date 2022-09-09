@@ -1,5 +1,5 @@
 # PHP proxy for Telegram Bot API
-![Demo](https://sun9-31.userapi.com/c200424/v200424688/35ab7/AFLyGuRVCAA.jpg)
+![Demo](https://sun9-30.userapi.com/impg/0B1wO3BPPg4sIg4VISffHQeGgJ3ZKm0jFNec-A/0oc-0iQQKTI.jpg)
 
 ## Requirements
 * PHP >= 5.6 
